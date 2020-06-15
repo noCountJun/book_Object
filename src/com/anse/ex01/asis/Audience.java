@@ -1,5 +1,8 @@
-package com.anse.ex01;
+package com.anse.ex01.asis;
 
+/**
+ * °ü¶÷°´
+ */
 public class Audience {
 	private Bag bag;
 	
